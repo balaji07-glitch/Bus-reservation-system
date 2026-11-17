@@ -1,0 +1,6 @@
+{
+  "name": "BusGo – Bus Reservation System",
+  "description": "A comprehensive bus reservation system prototype mirroring a college OOP mini project with route search, interactive seat selection, instant e-tickets, cancellation with 90% refund, and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

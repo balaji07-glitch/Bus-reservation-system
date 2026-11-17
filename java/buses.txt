@@ -1,0 +1,3 @@
+B101|SRM Express|Trichy|Chennai|06:00|11:00|450.0|24|
+B102|Cauvery Travels|Trichy|Madurai|09:30|12:30|250.0|20|
+B103|Marina Deluxe|Chennai|Coimbatore|21:00|05:00|700.0|28|
